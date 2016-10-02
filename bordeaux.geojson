@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.565937,
+          44.859347
+        ]
+      },
+      "properties": {
+        "title": "Le Wagon Bordeaux",
+        "address": "107 cours Balguerie-Stuttenberg, 33300 Bordeaux",
+        "marker-size": "large",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5680717,
+          44.8573635
+        ]
+      },
+      "properties": {
+        "title": "Carrefour City",
+        "address": "82 cours Balguerie-Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "grocery",
+        "schedule": "07:00 to 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5654732,
+          44.8592093
+        ]
+      },
+      "properties": {
+        "title": "La Pizz A Nico",
+        "address": "134 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "fast-food",
+        "website": "http://lapizzanico.blogspot.fr/",
+        "schedule": "Tuesday to Friday 11:45 to 13:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5665756,
+          44.8586484
+        ]
+      },
+      "properties": {
+        "title": "Pharmacie Chassaigne De Bruyne",
+        "address": "93 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "pharmacy",
+        "schedule": "9:00 to 12:30 - 14:00 to 19:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5666879,
+          44.8583304
+        ]
+      },
+      "properties": {
+        "title": "Boulangerie PAUL",
+        "address": "51 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "bakery",
+        "schedule": "7:00 to 20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5668958,
+          44.8581812
+        ]
+      },
+      "properties": {
+        "title": "Le Ranelagh",
+        "address": "104 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "danger",
+        "description": "Bar, tabac, brasserie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5707477,
+          44.8436445
+        ]
+      },
+      "properties": {
+        "title": "Rockwood",
+        "address": "4 Quai Louis XVIII, 33000 Bordeaux",
+        "marker-symbol": "bar",
+        "website": "http://www.rockwood.fr/"
+      }
+    }
+  ]
+}
