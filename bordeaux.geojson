@@ -113,6 +113,21 @@
         "marker-symbol": "bar",
         "website": "http://www.rockwood.fr/"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5686645,
+          44.8569432
+        ]
+      },
+      "properties": {
+        "title": "Crédit Agricole",
+        "address": "70 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+        "marker-symbol": "bank"
+      }
+    },
   ]
 }
